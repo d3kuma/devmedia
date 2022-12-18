@@ -32,6 +32,10 @@ h2{
     margin: 35px 20px;
 }
 
+div.divisao{
+    border-top: 1px solid black;
+}
+
 h3{
     font-size: 18px;
     font-family: Verdana;
@@ -54,6 +58,7 @@ p{
 
 span{
     font-weight: bold;
+    color: red;
 }
 
 a{
